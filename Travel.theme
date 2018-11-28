@@ -1,0 +1,152 @@
+[Theme]
+DisplayName=Travel
+
+; My Computer
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%Tango\Tango My Computer.ico
+
+; My Documents
+[CLSID\{450D8FBA-AD25-11D0-98A8-0800361B1103}\DefaultIcon]
+DefaultValue=%ThemeDir%Tango\Tango My Documents.ico
+
+; My Network Places
+[CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%Tango\Tango Network Neighborhood.ico
+
+; Recycle Bin
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+empty=%ThemeDir%Tango\Tango Recycle Empty.ico
+full=%ThemeDir%Tango\Tango Recycle Full.ico
+
+[Control Panel\Colors]
+ActiveTitle=64 72 120
+Background=0 0 0
+Hilight=72 96 80
+HilightText=224 224 216
+TitleText=224 224 216
+Window=216 208 200
+WindowText=0 0 0
+Scrollbar=200 192 184
+InactiveTitle=96 88 72
+Menu=144 128 112
+WindowFrame=0 0 0
+MenuText=0 0 0
+ActiveBorder=144 128 112
+InactiveBorder=144 128 112
+AppWorkspace=95 84 73
+ButtonFace=144 128 112
+ButtonShadow=96 88 72
+GrayText=96 88 72
+ButtonText=0 0 0
+InactiveTitleText=144 128 112
+ButtonHilight=200 192 184
+ButtonDkShadow=0 0 0
+ButtonLight=144 128 112
+InfoText=64 72 120
+InfoWindow=255 255 255
+;GradientActiveTitle=
+;GradientInactiveTitle=
+;ButtonAlternateFace=
+;HotTrackingColor=
+;MenuHilight=
+;MenuBar=
+
+[Control Panel\Cursors]
+Arrow=
+Help=
+AppStarting=
+Wait=
+NWPen=
+No=
+SizeNS=
+SizeWE=
+Crosshair=
+IBeam=
+SizeNWSE=
+SizeNESW=
+SizeAll=
+UpArrow=
+DefaultValue=ReactOS default
+Link=
+
+[Control Panel\Desktop]
+Wallpaper=%ThemeDir%Travel\Travel wallpaper.jpg
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=(None)
+ScreenSaveActive=0
+
+[Control Panel\Desktop\WindowMetrics]
+
+[Metrics]
+IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 248 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 118 0 97 118 0 111 117 110 100 46 119 97 118 0 247 191 95 1
+NonclientMetrics=84 1 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 110 100 111 119 115 32 100 101 102 97 117 108 116 46 84 104 101 109 13 0 0 0 15 0 0 0 251 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 110 100 111 119 115 32 100 101 102 97 117 108 116 46 84 104 101 109 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 110 100 111 119 115 32 100 101 102 97 117 108 116 46 84 104 101 109 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 110 100 111 119 115 32 100 101 102 97 117 108 116 46 84 104 101 109 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 110 100 111 119 115 32 100 101 102 97 117 108 116 46 84 104 101 109
+
+[AppEvents\Schemes\Apps\.Default\.Default\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\MenuPopup\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Open\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Close\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\MailBeep\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\RingIn\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Ringout\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemDefault\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+DefaultValue=
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT

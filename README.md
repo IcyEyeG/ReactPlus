@@ -2,6 +2,8 @@
 
 ReactPlus! is a [libre](https://en.wikipedia.org/wiki/Gratis_versus_libre) theme collection modeled after the [Microsoft Plus!](https://en.wikipedia.org/wiki/Microsoft_Plus!) series of software and designed with [ReactOS](https://www.reactos.org) in mind. 
 
+>For using ReacPlus assets on Linux, visit the [ReacPlusYaru](https://github.com/IcyEyeG/ReactPlusYaru) project.
+
 ## Contents
 
 ReactPlus! doesn't currently use visual styles, and conforms to the [Windows Theme File Format](https://docs.microsoft.com/en-us/windows/desktop/controls/themesfileformat-overview) up to Windows XP.
@@ -19,6 +21,7 @@ ReactPlus! doesn't currently use visual styles, and conforms to the [Windows The
 
 | Full name | Folder name | Wallpaper | Modeled after the original from | Notes |
 | --- | --- | --- | --- | --- |
+| Aquarium |  Aquarium |  From Ubuntu: Tranquil, by Pat David |  Microsoft Plus! for Windows XP | Originally featured the visual style Luna, blue (NormalColor) variant <br /> Visual style not used, only metrics and colors |
 Architecture |  Architec |  From Ubuntu: Blue, by ElSlunko |  Microsoft Plus! 98 |  Original metrics not ported yet, since they may require proprietary fonts |
 Baseball |  Baseball |  ❌ |  Microsoft Plus! for Kids! |  Original metrics not ported yet, since they may require proprietary fonts |
 Bugs |  BUGS |  From Ubuntu: Butterfly |  Microsoft Plus! for Kids! |  Original metrics not ported yet, since they may require proprietary fonts |
@@ -95,32 +98,32 @@ Contributions, bug reports, forks and pull requests welcome! The general goals o
 
 ### Short-term goals
 
-* Implement missing wallpapers and improve current selection if needed.
+* Implement missing wallpapers and improve current selection if needed;
 * Document Microsoft Plus! themes that serve as inspiration for ReactPlus! to become design guidelines.
 
 Example:
 
 | Full name | From | Wallpaper | Icons | Cursors | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Dangerous Creatures | Microsoft Plus! | A cougar | My Documents: N/A<br />My Computer: a poison dart frog<br />Network Neighborhood: a tarantula<br />Recycler (empty): an unpuffed blowfish<br />Recycler (full): a puffed blowfish | General style: classic 3D cursors, light grey<br/ >Busy cursor: a Portuguese man o' war (animated)<br/ >Wait cursor: a wasp (animated) | Optimized for 256 color |
+| Dangerous Creatures | Microsoft Plus! | A cougar | My Documents: N/A<br />My Computer: a poison dart frog<br />Network Neighborhood: a tarantula<br />Recycler (empty): an unpuffed blowfish<br />Recycler (full): a puffed blowfish | General style: classic 3D cursors, light grey<br />Busy cursor: a Portuguese man o' war (animated)<br />Wait cursor: a wasp (animated) | Optimized for 256 color |
 
 ### Mid-term goals
 
-* Implement documentation as a wiki and also include reference colors, fonts and metrics.
+* Implement documentation as a wiki and also include reference colors, fonts and metrics;
 
-* Create a branch featuring dark themes.
+* Create a branch featuring dark themes;
 
-* Investigate similar libre fonts to the ones used in Microsoft Plus! themes.
+* Investigate similar libre fonts to the ones used in Microsoft Plus! themes;
 
-* Design missing icons and cursors.
+* Design missing icons and cursors;
 
 * Design missing sounds.
 
 ### Long-term goals
 
-* Create a branch using variations of the ReactOS Lautus visual style.
+* Create a branch using variations of the ReactOS Lautus visual style;
 
-* Design and code missing screensavers.
+* Design and code missing screensavers;
 
 * Design and code a Plus!98 style theme manager with additional support for XP visual styles.
 
@@ -130,7 +133,7 @@ Example:
 
 ## Copying or Reusing
 
-This project has mixed licencing. You are free to copy, redistribute and/or modify aspects of this work under the terms of each licence accordingly (unless otherwise specified).
+This project has mixed licensing. You are free to copy, redistribute and/or modify aspects of this work under the terms of each license accordingly (unless otherwise specified).
 
 Included *.theme files are free software  licensed under the terms of the [Lesser GNU General Public License, version 3](https://www.gnu.org/licenses/lgpl-3.0.txt).
 
